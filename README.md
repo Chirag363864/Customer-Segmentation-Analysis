@@ -1,23 +1,23 @@
-# Job Market Analytics System
+# Customer Segmentation & Analysis
 
-## 📊 Overview
-Analyzed job market data for Data Analyst roles to identify in-demand skills, salary trends, and location-based opportunities.
+## Overview
+Analyzed customer data to identify high-value customers, buying patterns, and segmentation insights.
 
-## 🛠 Tools Used
+## Tools Used
 - SQL
 - Power BI
 - Python (Pandas)
 - Excel
 
-## 🔍 Key Insights
-- SQL, Python, and Power BI are the most demanded skills
-- Salaries increase significantly with experience
-- Majority of jobs are concentrated in metro cities
+## Key Insights
+- Top customers contribute major revenue
+- Repeat customers identified
+- Segment-wise purchasing patterns observed
 
-## 📌 Features
-- Skill demand analysis
-- Salary trend analysis
-- Location-based job insights
+## Features
+- Customer segmentation
+- Revenue contribution analysis
+- Behavioral insights
 
-## 📸 Dashboard
-![Dashboard](dashboard/dashboard.png
+## Dashboard
+![Dashboard](dashboard/dashboard.png)
